@@ -281,6 +281,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
     OpenAI and Deepseek for LLM capabilities
 
+## 📄 License
+
+This project is released under the **Business Source License 1.1 (BSL 1.1)**.  
+You are free to view the code, copy, modify, and use it for **non-production purposes**.  
+For any **commercial or production use**, please contact **OptimOps.ai (amateus1)** to obtain a separate license.  
+
+On **1 January 2030**, this project will automatically transition to the **GNU GPL v3 or later**.
+
+For full details, see the [LICENSE](LICENSE) file.
+
+
 ⭐ Star this repo if you find it useful!
 
 Built with ❤️ by https://almateus.me and the power of AI collaboration
