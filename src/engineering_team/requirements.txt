@@ -1,0 +1,6 @@
+streamlit
+pyyaml
+crewai
+sqlalchemy>=2.0.0
+langchain 
+openai
