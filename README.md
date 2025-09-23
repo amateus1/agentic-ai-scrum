@@ -7,13 +7,15 @@
 
 A revolutionary multi-agent AI engineering team that automatically processes Azure DevOps backlog items, generating complete full-stack applications with bilingual (English/Chinese) support, cost tracking, and detailed performance analytics.
 
-## 🌟 Featured In
-Check out the story behind this repo on LinkedIn:  
+## What This Demo Shows
+This project demonstrates how **Agentic AI teams** can integrate directly into Agile workflows:
 
-[![LinkedIn Post](https://img.shields.io/badge/🔗%20View_on-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7373339593909260289)
+- 🧑‍💻 **Scrum roles as agents** (Scrum Master, Product Owner, Engineer) collaborating on tasks  
+- 📊 **Azure DevOps integration** for backlog, task tracking, and status updates  
+- 💰 **Token & cost usage tracking** per agent role, with full visibility in Weights & Biases  
 
-
-![ADO Integration Demo](images/ado-integration-screenshot.png) *<!-- You'll add actual screenshots -->*
+🔗 Watch the demo: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:xxxxxx)  
+🔗 Explore more projects: [My GitHub Portfolio](https://github.com/amateus1)  
 
 ## 🚀 Key Features
 
