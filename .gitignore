@@ -197,3 +197,6 @@ src/engineering_team/test_*.py
 
 # W&B directory
 wandb/
+
+# backup_without_stubs
+engineering_team_public/backup_without_stubs/backup_without_stubs/
