@@ -17,6 +17,22 @@ This project demonstrates how **Agentic AI teams** can integrate directly into A
 🔗 Watch the demo: [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:xxxxxx)  
 🔗 Explore more projects: [My GitHub Portfolio](https://github.com/amateus1)  
 
+## ⚠️ Stubbed Code Notice
+
+This public repo demonstrates the **architecture and CrewAI agent setup**.  
+For security and commercial reasons, some integration logic has been **stubbed out**, including:
+
+- `ado_webhook_server.py` → webhook listener, ADO event handling, cost tracking  
+- `ado_client.py` → Azure DevOps API integration (comments, status updates, cost posting)  
+- `main.py` → cost distribution and production-level orchestration  
+
+You can still run local demos (`python main.py`) to see CrewAI agents in action.  
+
+The full webhook → Azure DevOps → CrewAI → Weights & Biases integration is only available via **OptimOps.ai**.  
+
+📩 Contact: al@optimops.ai
+
+
 ## 🚀 Key Features
 
 ### 🤖 Multi-Agent AI Team
